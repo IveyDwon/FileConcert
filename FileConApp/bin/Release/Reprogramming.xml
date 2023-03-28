@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reprogramming>
+  <Vehicle Name="A51">  
+    <Family Name="VCU" Icon="VCU.png" Enabled="True">
+      <ECU DispECU="A51_VCU_001_ECAN" Manual="True" PartNumber="LSJZ16N61AJ0" AppFileCount="2" Memo="" MTOC="">
+        <DriverFile Path="C:\Users\jinfu yang.ACTIA\Desktop\VCU\VCU\fl_HCU-1_2.3_v2.BIN" StartAddress="00000000" BlockSize="256" Head="True" SegmentOffset="0" />
+        <ApplicationFile Path="C:\Users\jinfu yang.ACTIA\Desktop\VCU\VCU\A51PHEV_411_SVN250_CAL.bin" BlockSize="256" Head="True" SegmentOffset="32" />
+        <ApplicationFile Path="C:\Users\jinfu yang.ACTIA\Desktop\VCU\VCU\A51PHEV_411_SVN250_SW.bin" BlockSize="256" Head="True" SegmentOffset="32" />
+      </ECU>
+    </Family>
+  </Vehicle>
+</Reprogramming>
